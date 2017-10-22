@@ -1,3 +1,5 @@
+mailslurper version used: 1.11.2
+
 # build docker image
 `docker build .`
 
